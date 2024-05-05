@@ -9,3 +9,5 @@ W grze występuje dwóch przeciwników: z bliska i z daleka. Oboje mają zupełn
 Jest również system interakcji.
 
 Całość wykonana jest na blueprintach.
+
+Na bazie tego projektu powstał również mój mały światotwórczy projekt.
